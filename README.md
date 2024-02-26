@@ -1,2 +1,2 @@
-# boilerplate
-Basic HTML and CSS setup for simple web design
+# ScrollReveal Lab
+We sure learned how to use ScrollReveal
